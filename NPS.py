@@ -19,7 +19,7 @@ import pandas as pd
 # In[2]:
 
 
-# load NPS data from Amazon Electronics Reviews section
+# load NPS data from Amazon Instant Video Reviews section
 #use pd.read_json(datapath, lines=True)
 df=pd.read_json('..\\speech\\Amazon_Instant_Video_5.json' , lines=',')
 
