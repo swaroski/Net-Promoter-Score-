@@ -3,7 +3,7 @@
 
 # In[1]:
 # The data is here is imported from Amazon's Dataset. Here I have used the Instant View Reviews dataset. 
-
+# Using Recurrent Neural Network (RNN) Machine Learning algorithm
 import numpy as np
 import os
 os.environ["CUDA_DEVICE_ORDER"]="PCI_BUS_ID"   
