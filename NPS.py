@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[1]:
-
+# The data is here is imported from Amazon's Dataset. Here I have used the Instant View Reviews dataset. 
 
 import numpy as np
 import os
